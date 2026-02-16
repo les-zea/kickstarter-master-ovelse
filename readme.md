@@ -1,7 +1,7 @@
 # Kickstarter - test
 
 Download projektet som ZIP-fil - VIGTIGT!
-Dette er en test af **Github**
+Dette er en test af **Github** 
 
 ## Kør "setup" kommandoen her under hvis det er første gang du åbner projektet
 ```sh
